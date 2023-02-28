@@ -1,0 +1,15 @@
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache
+C:\Users\serge\source\repos\FuncitonalProgramming\FuncitonalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll

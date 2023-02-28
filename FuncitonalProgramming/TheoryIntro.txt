@@ -1,0 +1,39 @@
+﻿Functional programming is a paradigm of programming that emphasizes the use 
+of pure functions and immutable data structures. In functional programming, 
+functions are treated as first-class citizens, which means that they can be 
+passed as arguments to other functions, returned as values from functions, 
+and assigned to variables.
+
+The main concepts of functional programming include:
+
+Pure Functions: A pure function is a function that always produces the 
+ output for a given input and does not have any side effects, i.e., it does
+ not modify any state outside of its scope. Pure functions are easier to
+ reason about and test, as they do not have any hidden dependencies or 
+unexpected side effects.
+
+Immutable Data Structures: An immutable data structure is a data structure 
+that cannot be modified after it has been created. Instead of modifying the 
+original data structure, operations on immutable data structures create new 
+data structures. Immutable data structures make it easier to reason about 
+program state, as they eliminate the possibility of unexpected changes.
+
+Higher-order Functions: A higher-order function is a function that takes 
+one or more functions as arguments or returns a function as its result. 
+Higher-order functions are a key feature of functional programming, as 
+they allow for the composition of complex behavior from simple building blocks.
+
+Recursion: Recursion is a technique in which a function calls itself with
+ modified parameters, usually as a way to iterate over data structures or
+ solve problems that can be broken down into smaller sub-problems.
+
+Lazy Evaluation: Lazy evaluation is a technique in which the evaluation 
+of an expression is delayed until its value is actually needed. This can
+ improve performance and reduce memory usage by avoiding the evaluation 
+of unnecessary or unused expressions.
+
+Functional programming is a powerful paradigm that can lead to code 
+that is easier to understand, maintain, and reason about. However, it
+ can also be more challenging to learn and apply than imperative or 
+object-oriented programming, as it requires a different way of thinking
+ about programming problems.
